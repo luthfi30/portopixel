@@ -78,7 +78,7 @@ const Footer = () => {
 
       {/* copyright */}
       <div className="flex flex-col sm:flex-row justify-between pb-7">
-        <p>Copyright @ Arino 2024</p>
+        <p>Copyright @ PixelPulse Studio 2024</p>
         <p>Terms of Use | privacy Policy</p>
       </div>
     </div>
